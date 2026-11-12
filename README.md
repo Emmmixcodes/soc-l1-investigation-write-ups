@@ -25,3 +25,5 @@ I use the 5W framework (who, what, when, where, why), a 5-question triage check,
 
 See `lessons-learned.md` for what I missed in attempt 1 and how I improved.
 
+“Attempt 1 report contains unresolved placeholders and a response-log mix-up; see lessons-learned. Attempt 2 coming.”
+
